@@ -39,7 +39,6 @@ apis:
   - name: FilterLists
     description: "Lists of filters for adblockers and firewalls"
     humanURL: https://filterlists.com
-    baseURL: https://filterlists.com
     tags:
       - Security
     properties:
